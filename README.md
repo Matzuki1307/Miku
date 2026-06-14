@@ -1,4 +1,4 @@
-# Jarvis
+# MikuAssistant
 
 Asistente local para Linux construido con Python y Ollama.
 
